@@ -1,2 +1,6 @@
-# learn-html-fCC.org
-Learn HTML in this complete course for beginners. This is an all-in-one beginner tutorial to help you learn web development skills. This course teaches HTML5. https://youtu.be/kUMe1FH4CHE
+## Curently working on:
+
+- `Learn HTML – Full Tutorial for Beginners` - freeCodeCamp.org
+https://youtu.be/kUMe1FH4CHE?t=5393
+
+## Finished:
