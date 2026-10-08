@@ -1,6 +1,5 @@
-## Curently working on:
+# Learning Resource Dump
 
-- `Learn HTML – Full Tutorial for Beginners` - freeCodeCamp.org
-https://youtu.be/kUMe1FH4CHE?t=5393
+## Curently working on
 
-## Finished:
+- [Learn HTML – Full Tutorial for Beginners](https://youtu.be/kUMe1FH4CHE?t=5393) - freeCodeCamp.org
